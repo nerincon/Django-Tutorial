@@ -8,9 +8,11 @@ name = "pypi"
 [packages]
 
 django = ">=2.1.11"
+awsebcli = "*"
 
 
 [dev-packages]
+
 django = ">=2.1.11"
 
 
