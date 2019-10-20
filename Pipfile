@@ -7,11 +7,11 @@ name = "pypi"
 
 [packages]
 
-django = "*"
+django = ">=2.1.11"
 
 
 [dev-packages]
-
+django = ">=2.1.11"
 
 
 [requires]
