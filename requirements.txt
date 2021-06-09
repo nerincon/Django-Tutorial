@@ -1,13 +1,13 @@
 -i https://pypi.python.org/simple/
 awsebcli==3.15.3
-blessed==1.17.6
+blessed==1.18.0
 botocore==1.12.253
-cached-property==1.5.1
+cached-property==1.5.2
 cement==2.8.2
-certifi==2020.4.5.1
+certifi==2021.5.30
 chardet==3.0.4
 colorama==0.3.9
-django==2.2.13
+django==2.2.22
 docker-compose==1.23.2
 docker-pycreds==0.4.0
 docker==3.7.3
@@ -20,14 +20,14 @@ jmespath==0.10.0
 jsonschema==2.6.0
 pathspec==0.5.9
 python-dateutil==2.8.1 ; python_version >= '2.7'
-pytz==2020.1
+pytz==2021.1
 pyyaml==3.13
 requests==2.20.1
 semantic-version==2.5.0
 six==1.11.0
-sqlparse==0.3.1
+sqlparse==0.4.1
 termcolor==1.1.0
 texttable==0.9.1
 urllib3==1.24.3 ; python_version >= '3.4'
 wcwidth==0.1.9
-websocket-client==0.57.0
+websocket-client==0.59.0
